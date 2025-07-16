@@ -1,0 +1,23 @@
+[
+  {
+    "Index": "T4_SOLDIER_BOOTS",
+    "LocalizedNames": {
+      "EN-US": "Soldier Boots",
+      "ES-ES": "Botas de Soldado"
+    }
+  },
+  {
+    "Index": "T5_ORE",
+    "LocalizedNames": {
+      "EN-US": "Ore",
+      "ES-ES": "Mineral"
+    }
+  },
+  {
+    "Index": "T6_MOUNT_HORSE",
+    "LocalizedNames": {
+      "EN-US": "Horse",
+      "ES-ES": "Caballo"
+    }
+  }
+]
